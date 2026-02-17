@@ -22,7 +22,7 @@ Eu sou Andson Sillas, sou um Programador Front-End com foco em tornar-me um Prog
 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 
-![Andson Sillas stats](https://github-readme-stats.vercel.app/api?username=Andson-Sillas&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andson-Sillas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
